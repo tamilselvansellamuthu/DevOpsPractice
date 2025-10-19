@@ -1,2 +1,2 @@
 # DevOpsPractice
-Practising Notes for DevOps
+DevOps Practising Notes Recording
